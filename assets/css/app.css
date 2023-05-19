@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;600&display=swap');
+
+body
+{
+    font-family: 'Comfortaa', sans-serif;
+}
+
+.card-back, .card-front
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.45);
+}
+
+.card-front
+{
+   width: 150px;
+   height: 150px;
+   background-color: rgb(47, 40, 52); 
+}
+
+.card-back
+{
+    font-size: 60px;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(180, 170, 186); 
+}
+
+.icon   
+{
+    width: 100px;
+}
