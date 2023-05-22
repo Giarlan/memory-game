@@ -10,6 +10,10 @@
 body
 {
     font-family: 'Comfortaa', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 .card
@@ -49,7 +53,7 @@ body
     width: 150px;
     height: 150px;
     background-color: rgb(180, 170, 186); 
-    /* display: none; */
+    display: flex;
 }
 
 .icon   
@@ -80,4 +84,14 @@ body
     color: #1a1a1a;
     border: none;
     border-radius: 40px;
+}
+
+#gameBoard
+{
+    background-color: #db652e;
+    max-width: 700px;
+    display: grid;
+    grid-template: 1fr 1fr 1fr 1fr 1fr / 1fr 1fr 1fr 1fr;
+    gap: 20px;
+
 }
