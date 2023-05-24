@@ -13,7 +13,7 @@ body{
     justify-content: space-around;
     align-items: center;
     height: 100vh;
-    background-color: aliceblue;
+    background-color: #1a1a1a;
 }
 
 .card{
@@ -34,7 +34,6 @@ body{
     justify-content: center;
     align-items: center;
     border-radius: 20px; 
-    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.45); 
     backface-visibility: hidden;   
 }
 
