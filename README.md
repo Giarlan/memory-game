@@ -21,7 +21,7 @@
 > ### Deploy
 > * Test by using the link below
 >   
->   https://harmonious-seahorse-e5a079.netlify.app
+>   https://giarlan-memory-game.netlify.app/
 
 
 > ### Technologies Used
