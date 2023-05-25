@@ -13,7 +13,7 @@
 > ![Capturar1](https://github.com/Giarlan/memory-game/assets/108962578/893103f3-6c9b-47b4-8c3d-86cc71ff0771)  
 
 > ### Game-Over Screen
-> 
+> ![Capturar](https://github.com/Giarlan/memory-game/assets/108962578/90ba9f81-dcb7-4497-a77f-2fbdb999a574)
 
 > ### Prerequisites to run it
 >     You only need a browser to click on the following link and run the application.
