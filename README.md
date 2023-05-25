@@ -9,8 +9,11 @@
 > - [X] Game screen
 > - [X] Game-Over screen
 
-> ### Home Page
-> ![Capturar](https://user-images.githubusercontent.com/108962578/236968010-dc06a06e-320d-4288-a873-cbdefc0162b6.JPG)  
+> ### Home Screen
+> ![Capturar1](https://github.com/Giarlan/memory-game/assets/108962578/893103f3-6c9b-47b4-8c3d-86cc71ff0771)  
+
+> ### Game-Over Screen
+> 
 
 > ### Prerequisites to run it
 >     You only need a browser to click on the following link and run the application.
