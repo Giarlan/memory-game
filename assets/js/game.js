@@ -4,6 +4,19 @@ let game = {
     firstCard: null,
     secondCard: null,
 
+    techs: [
+        'bootstrap',
+        'css',
+        'html',
+        'javascript',
+        'jquery',
+        'nodejs',
+        'reactjs',
+        'git',
+        'angular',
+        'vuejs'
+    ],
+
     setCard: function (id) {
 
         let card = this.cards.filter (card => card.id === id) [0];
@@ -48,19 +61,6 @@ let game = {
         return this.cards.filter(card => !card.flipped).length == 0;
     },
 
-    techs: [
-        'bootstrap',
-        'css',
-        'html',
-        'javascript',
-        'jquery',
-        'nodejs',
-        'reactjs',
-        'git',
-        'angular',
-        'vuejs'
-    ],
-
     cards: null,
 
     createCardsFromTechs: function() {
@@ -103,11 +103,4 @@ let game = {
             [this.cards[ramdomIndex], this.cards[currentIndex]] = [this.cards[currentIndex], this.cards[ramdomIndex]];
         }
     }
-
-
-
-
-
-
-
 }
